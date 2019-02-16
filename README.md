@@ -1,2 +1,2 @@
-# Person-UI
+# Person
 Challenge: Person UI
